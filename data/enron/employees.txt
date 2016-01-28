@@ -1,0 +1,156 @@
+1	John Arnold	Trading	ENA Gas Financial	VP Trading	Male	Senior
+2	Harry Arora	Trading	ENA East Power	VP Trading	Male	Senior
+3	Robert Badeer	Trading	ENA West Power	Mgr Trading	Male	Junior
+4	Susan Bailey	Legal	ENA Legal	Specialist Legal	Female	Junior
+5	Eric Bass	Trading	ENA Gas Texas	Trader	Male	Junior
+6	Don Baughman Jr.	Trading	ENA East Power	Mgr Trading	Male	Junior
+7	Sally Beck	Other	Energy Operations	VP	Female	Senior
+8	Robert Benson	Trading	ENA East Power	Dir Trading	Male	Senior
+9	Lynn Blair	Other	ETS	Director	Female	Senior
+10	Sandra F. Brawner	Trading	ENA Gas East	Dir Trading	Female	Senior
+11	Rick Buy	Trading	Enron	VP & CRO	Male	Senior
+12	Larry Campbell	Other	ETS	Specialist	Male	Junior
+13	Larry F. Campbell	Other	ENA East Power	Specialist	Male	Junior
+14	Mike Carson	Trading	ENA East Power	Mgr Trading	Male	Junior
+15	Michelle Cash	Legal	ENA Legal	Attorney	Female	Junior
+16	Monika Causholli	Other	ENA West Power Real Time	Analyst	Female	Junior
+17	Shelley Corman	Other	ETS	VP	Female	Senior
+18	Sean Crandall	Trading	ENA West Power	Dir Trading	Male	Senior
+19	Martin Cuilla	Trading	ENA Gas Central	Mgr Trading	Male	Junior
+20	Jeff Dasovich	Legal	Regulatory and Government Affairs	Director	Male	Senior
+21	Dana Davis	Other	NA	Administrator	Female	Junior
+22	Clint Dean	Trading	ENA East Power	Mgr Trading	Male	Junior
+23	Craig Dean	Other	ENA West Power Real Time	Specialist	Male	Junior
+24	David W. Delainey	Other	EWS	President & CEO	Male	Senior
+25	James Derrick Jr.	Legal	Enron	VP & Gen Cnsl	Male	Senior
+26	Stacy E. Dickson	Legal	ENA Legal	Cnsl	Female	Junior
+27	Lindy Donoho	Other	ETS	Employee	Female	Junior
+28	Tom Donohoe	Trading	ENA Gas Central	Mgr Trading	Male	Junior
+29	Chris Dorland	Trading	ENA East Power	Mgr Trading	Male	Junior
+30	Frank Ermis	Trading	ENA Gas West	Dir Trading	Male	Senior
+31	Daren J. Farmer	Trading	ENA Gas Texas	Dir Trading	Male	Senior
+32	Mary Fischer	Other	NA	Employee	Female	Junior
+33	John M. Forney	Trading	ENA East Power	Dir Trading	Male	Senior
+34	Drew Fossum	Legal	ETS	VP & Gen Cnsl	Male	Senior
+35	Lisa Gang	Other	ENA West Power	Specialist	Female	Junior
+36	Randall L. Gay	Other	ENA Gas West	Associate	Male	Junior
+37	Rob G. Gay	Other	NA	Employee	Male	Junior
+38	Tracy Geaccone	Other	ETS	Assistant	Female	Junior
+39	Chris Germany	Trading	ENA Gas East	Mgr Trading	Male	Junior
+40	Doug Gilbert-Smith	Trading	ENA East Power	Dir Trading	Male	Senior
+41	Darron C. Giron	Trading	Energy Operations	Mgr Trading	Male	Junior
+42	John Griffith	Trading	ENA Gas Financial	Mgr Trading	Male	Junior
+43	Mike Grigsby	Trading	ENA Gas West	VP Trading	Male	Senior
+44	Mark Guzman	Other	ENA West Power Real Time	Specialist	Male	Junior
+45	Mark E. Haedicke	Legal	ENA Legal	Mng Director & Gen Cnsl	Male	Senior
+46	Mary Hain	Legal	Regulatory and Government Affairs	Director	Female	Senior
+47	Steven Harris	Other	ETS	VP	Male	Senior
+48	Rod Hayslett	Other	ETS	VP & CFO	Male	Senior
+49	Marie Heard	Legal	ENA Legal	Specialist Legal	Female	Junior
+50	Scott Hendrickson	Trading	ENA Gas East	Dir Trading	Male	Senior
+51	Juan Hernandez	Trading	ENA East Power	Mgr Trading	Male	Junior
+52	Judy Hernandez	Other	Energy Operations	Administrator	Female	Junior
+53	Jeffrey T. Hodge	Legal	ENA Legal	VP & Asst Gen Cnsl	Male	Senior
+54	John Hodge	Trading	ENA Gas East	Dir Trading	Male	Senior
+55	Keith Holst	Trading	ENA Gas West	Dir Trading	Male	Senior
+56	Stanley Horton	Other	ETS	President & CEO	Male	Senior
+57	Kevin Hyatt	Other	ETS	Director	Male	Senior
+58	Dan J. Hyvl	Legal	ENA Legal	Employee	Male	Junior
+59	Tana Jones	Legal	ENA Legal	Specialist Legal	Female	Junior
+60	Vince J. Kaminski	Other	EWS	Mng Director Research	Male	Senior
+61	Steven J. Kean	Other	Enron	VP & Chief of Staff	Male	Senior
+62	Peter F. Keavey	Trading	ENA Gas East	Mgr Trading	Male	Junior
+63	Kam Keiser	Trading	Energy Operations	Mgr Trading	Female	Junior
+64	Jeff King	Trading	ENA East Power	Mgr Trading	Male	Junior
+65	Louise Kitchen	Other	EWS	COO	Female	Senior
+66	Tori Kuykendall	Trading	ENA Gas West	Mgr Trading	Female	Junior
+67	John J. Lavorato	Other	EWS	ENA President & CEO	Male	Senior
+68	Kenneth Lay	Other	Enron	President & CEO	Male	Senior
+69	Matthew Lenhart	Other	ENA Gas West	Analyst	Male	Junior
+70	Andrew H. Lewis	Trading	ENA Gas Central	Dir Trading	Male	Senior
+71	Eric Linder	Other	ENA West Power Real Time	Specialist	Male	Junior
+72	Michelle Lokay	Other	ETS	Director	Female	Senior
+73	Teb Lokey	Other	ETS	Employee	Male	Junior
+74	Phillip M. Love	Other	Energy Operations	Specialist	Male	Junior
+75	Paul T. Lucci	Trading	ENA Gas West	Dir Trading	Male	Senior
+76	Mike Maggi	Trading	ENA Gas Financial	Dir Trading	Male	Senior
+77	Kay Mann	Legal	ENA Legal	Director & Cnsl	Female	Senior
+78	Thomas A. Martin	Trading	ENA Gas Texas	VP Trading	Male	Senior
+79	Larry May	Trading	ENA Gas Financial	Dir Trading	Male	Senior
+80	Danny McCarty	Other	ETS	VP & CTO	Male	Senior
+81	Mark McConnell	Other	ETS	Director	Male	Senior
+82	Mike McConnell	Other	EWS	EGM President & CEO	Male	Senior
+83	Brad McKay	Trading	ENA Gas East	Dir Trading	Male	Senior
+84	Jonathan McKay	Trading	ENA Gas East	Dir Trading	Male	Senior
+85	Errol McLaughlin Jr.	Other	Energy Operations	Specialist	Male	Junior
+86	Steven Merris	Other	ENA West Power Real Time	Specialist	Male	Junior
+87	Bert Meyers	Other	ENA West Power Real Time	Specialist	Male	Junior
+88	Patrice L. Mims 	Trading	ENA Gas Central	Dir Trading	Female	Senior
+89	Matt Motley	Trading	ENA West Power Real Time	Dir Trading	Male	Senior
+90	Scott Neal	Trading	ENA Gas East	VP Trading	Male	Senior
+91	Gerald Nemec	Legal	ENA Legal	Manager	Male	Junior
+92	Stephanie Panus	Legal	ENA Legal	Specialist Legal	Female	Junior
+93	Joe Parks	Trading	ENA Gas Central	Mgr Trading	Male	Junior
+94	Susan W. Pereira	Trading	ENA Gas East	Mgr Trading	Female	Junior
+95	Debra Perlingiere	Legal	ENA Legal	Specialist Legal	Female	Junior
+96	Vladi Pimenov	Other	ENA Gas East	Associate	Male	Junior
+97	Phillip Platter	Other	ENA West Power	Specialist	Male	Junior
+98	Kevin M. Presto	Trading	ENA East Power	VP Trading	Male	Senior
+99	Joe Quenet	Trading	ENA East Power	Mgr Trading	Male	Junior
+100	Dutch Quigley	Other	ENA Gas Financial	Associate	Male	Junior
+101	Bill Rapp	Legal	ETS	Attorney	Male	Junior
+102	Jay Reitmeyer	Other	ENA Gas West	Associate	Male	Junior
+103	Cooper Richey	Other	ENA West Power	Associate	Male	Junior
+104	Andrea Ring	Trading	ENA Gas East	Dir Trading	Female	Senior
+105	Richard Ring	Other	EES	Employee	Male	Junior
+106	Robin Rodrigue 	Other	ENA Gas Central	Analyst	Female	Junior
+107	Benjamin Rogers	Other	ENA East Power	Associate	Male	Junior
+108	Kevin Ruscitti	Trading	ENA Gas Central	Mgr Trading	Male	Junior
+109	Elizabeth Sager	Legal	ENA Legal	VP & Asst Gen Cnsl	Female	Senior
+110	Eric Saibi	Other	ENA East Power	Analyst	Male	Junior
+111	Holden Salisbury	Other	ENA West Power	Analyst	Male	Junior
+112	Monique Sanchez 	Other	ENA Gas West	Associate	Female	Junior
+113	Richard B. Sanders	Legal	ENA Legal	VP & Asst Gen Cnsl	Male	Senior
+114	Diana Scholtes	Trading	ENA West Power	Dir Trading	Female	Senior
+115	Darrell Schoolcraft	Other	ETS	Employee	Male	Junior
+116	Jim Schwieger	Trading	ENA Gas Texas	Trader	Male	Junior
+117	Susan Scott	Legal	ETS	Cnsl	Female	Junior
+118	Susan M. Scott	Other	ENA Gas West	Analyst	Female	Junior
+119	Cara Semperger	Other	ENA West Power	Specialist	Female	Junior
+120	Sara Shackleton	Legal	ENA Legal	Gen Cnsl Asst	Female	Junior
+121	Jeffrey A. Shankman	Other	EWS	COO	Male	Senior
+122	Richard Shapiro	Legal	Regulatory and Government Affairs	VP of Regulatory Affairs	Male	Senior
+123	Hunter S. Shively	Trading	ENA Gas Central	VP Trading	Male	Senior
+124	Jeff Skilling	Other	Enron	President & CEO	Male	Senior
+125	Ryan Slinger	Other	ENA West Power Real Time	Specialist	Male	Junior
+126	Matt Smith	Other	ENA Gas West	Associate	Male	Junior
+127	Geir Solberg	Other	ENA West Power Real Time	Analyst	Male	Junior
+128	Steven P. South	Trading	ENA Gas West	Dir Trading	Male	Senior
+129	Theresa Staab	Other	ENA Gas West	Specialist	Female	Junior
+130	Carol St Clair	Legal	ENA Legal	Director & Gen Cnsl Asst	Female	Senior
+131	James D. Steffes	Legal	Regulatory and Government Affairs	VP of Government Affairs	Male	Senior
+132	Joe Stepenovitch	Other	ENA East Power	Specialist	Male	Junior
+133	Chris Stokley	Other	ENA West Power	Specialist	Male	Junior
+134	Geoff Storey	Trading	ENA Gas Central	Dir Trading	Male	Senior
+135	Fletcher J. Sturm	Trading	ENA East Power	VP Trading	Male	Senior
+136	Mike Swerzbin	Trading	ENA West Power	VP Trading	Male	Senior
+137	Kate Symes	Other	ENA West Power Real Time	Employee	Female	Junior
+138	Mark E. Taylor	Legal	ENA Legal	VP & Gen Cnsl	Male	Senior
+139	Michael E. Taylor	Trading	Energy Operations	Trader	Male	Junior
+140	Jane M. Tholt	Trading	ENA Gas West	Dir Trading	Female	Senior
+141	Paul D. Thomas	Other	ENA East Power	Associate	Male	Junior
+142	Judy Townsend	Trading	ENA Gas East	Mgr Trading	Female	Junior
+143	Barry Tycholiz	Trading	ENA Gas West	VP Trading	Male	Senior
+144	Kim S. Ward	Trading	ENA Gas West	Mgr Trading	Female	Junior
+145	Kimberly Watson	Other	ETS	Director	Female	Senior
+146	V Charles Weldon	Other	ENA Gas Texas	Associate	Male	Junior
+147	Greg Whalley	Other	EWS	President & CEO	Male	Senior
+148	Stacey W. White	Other	Energy Operations	Director	Female	Senior
+149	Mark Whitt	Trading	ENA Gas West	VP Trading	Male	Senior
+150	Jason Williams	Other	ENA Gas Central	Specialist	Male	Junior
+151	Bill Williams III	Other	ENA West Power Real Time	Analyst	Male	Junior
+152	Jason Wolfe	Other	ENA Gas West	Analyst	Male	Junior
+153	Paul Y’Barbo	Other	ETS	Director	Male	Senior
+154	Andy Zipper	Other	EWS	VP of Enron Online	Male	Senior
+155	John Zufferli	Other	EWS	VP of Enron Canada	Male	Senior
+156	Phillip K. Allen	Trading	ENA Gas West	Mng Dir Trading	Male	Senior
