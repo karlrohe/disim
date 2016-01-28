@@ -1,7 +1,7 @@
 # disim
 
-data 			contains the data.  Please see the paper http://arxiv.org/abs/1204.2296 for citations.       
-figures		contains the figures in the paper.      
+data/ 			contains the data.  Please see the paper http://arxiv.org/abs/1204.2296 for citations.       
+figures/		contains the figures in the paper.      
 
 
       
