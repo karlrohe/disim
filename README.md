@@ -11,5 +11,8 @@ figures/		contains the figures in the paper.
 4)   makeC-ElegansPermutationTest.R      
 			performs the permutation test the gets the p-value for the feedforward structure in the c Elegans analysis      
 5)   makeC-ElegansXfigure.R      
-			creates figure 1 in the SI      
+			creates figure 2 in the SI      
 6)   makeCElegans	loads the c Elegans data and performs di-sim.      
+7)   makeWormScree.R   makes figure 1 in the SI.
+8)   makeC-ElegansXfigure5.R  creates Figure 6 in the SI
+9)   makeEdgeWeight.R  creates figure 7 in the SI

@@ -114,8 +114,10 @@ inClusterLabels = lab2[match(inneuron, lab2[,2]),3]
 
 
 
+G = A
 
-A = log(A+1)
+# #  compare to sqrt transformation:
+A = sqrt(G)
 n = nrow(A)
 
 rs = rowSums(A); mrs = mean(rs[rs>0])
@@ -124,7 +126,89 @@ Dr = diag((rs + mrs)^(-1/2))
 Dc = diag((cs + mcs)^(-1/2))
 L = Dr%*%A%*%Dc
 s = svd(L)
-k = 7
+plot(s$d)
+
+
+us = s$u[,1:k]
+vs = s$v[,1:k]
+
+# # 
+# # #  compare to NO transformation:
+# A = G
+# n = nrow(A)
+# 
+# rs = rowSums(A); mrs = mean(rs[rs>0])
+# cs = colSums(A); mcs = mean(cs[cs>0])
+# Dr = diag((rs + mrs)^(-1/2))
+# Dc = diag((cs + mcs)^(-1/2))
+# L = Dr%*%A%*%Dc
+# s = svd(L)
+# plot(s$d)
+# 
+# un = s$u[,1:k]
+# vn = s$v[,1:k]
+# 
+
+# 
+# ### compare to unweighted graph.
+# A[A>0] = 1
+# 
+# rs = rowSums(A); mrs = mean(rs[rs>0])
+# cs = colSums(A); mcs = mean(cs[cs>0])
+# Dr = diag((rs + mrs)^(-1/2))
+# Dc = diag((cs + mcs)^(-1/2))
+# L = Dr%*%A%*%Dc
+# s = svd(L)
+# plot(s$d)
+# 
+# unw = s$u[,1:k]
+# vnw = s$v[,1:k]
+
+# # 
+### paper reports on log transformation.
+A = log(G+1)
+n = nrow(A)
+
+rs = rowSums(A); mrs = mean(rs[rs>0])
+cs = colSums(A); mcs = mean(cs[cs>0])
+Dr = diag((rs + mrs)^(-1/2))
+Dc = diag((cs + mcs)^(-1/2))
+L = Dr%*%A%*%Dc
+s = svd(L)
+plot(s$d)
+
+ul = s$u[,1:k]
+vl = s$v[,1:k]
+# # 
+# 
+# 
+# 
+# 
+# 
+# # to investigate the canonical angle between the leading subspaces:
+# sqrt(sum(1-svd(t(un)%*%us)$d^2))
+# sqrt(sum(1-svd(t(un)%*%ul)$d^2))
+# sqrt(sum(1-svd(t(ul)%*%us)$d^2))
+# 
+# sqrt(sum(1-svd(t(un)%*%unw)$d^2))
+# sqrt(sum(1-svd(t(us)%*%unw)$d^2))
+# sqrt(sum(1-svd(t(ul)%*%unw)$d^2))
+# 
+# 
+# 
+# 
+# 
+# sqrt(sum(1-svd(t(vn)%*%vs)$d^2))
+# sqrt(sum(1-svd(t(vn)%*%vl)$d^2))
+# sqrt(sum(1-svd(t(vl)%*%vs)$d^2))
+# 
+# sqrt(sum(1-svd(t(vn)%*%vnw)$d^2))
+# sqrt(sum(1-svd(t(vs)%*%vnw)$d^2))
+# sqrt(sum(1-svd(t(vl)%*%vnw)$d^2))
+
+
+
+if(!"k" %in% ls()) print("Error:  Need to set number of clusters k.")
 
 u = t(apply(s$u[,1:k]%*%diag(s$d[1:k]), 1, 
             function(x) return(x/sqrt(sum(x^2) + 10^(-10)))))
